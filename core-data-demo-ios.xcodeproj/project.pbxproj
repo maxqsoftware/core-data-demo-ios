@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D4FBEF1242B354E000D0B24 /* CoreDataIdentifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D4FBEF0242B354E000D0B24 /* CoreDataIdentifiers.swift */; };
 		7DAC71A6242B29330034F8F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DAC71A5242B29330034F8F1 /* AppDelegate.swift */; };
 		7DAC71A8242B29330034F8F1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DAC71A7242B29330034F8F1 /* SceneDelegate.swift */; };
 		7DAC71AA242B29330034F8F1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DAC71A9242B29330034F8F1 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D4FBEF0242B354E000D0B24 /* CoreDataIdentifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataIdentifiers.swift; sourceTree = "<group>"; };
 		7DAC71A2242B29330034F8F1 /* core-data-demo-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "core-data-demo-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DAC71A5242B29330034F8F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7DAC71A7242B29330034F8F1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				7DAC71B3242B29360034F8F1 /* LaunchScreen.storyboard */,
 				7DAC71B6242B29360034F8F1 /* Info.plist */,
 				7DAC71AE242B29330034F8F1 /* core_data_demo_ios.xcdatamodeld */,
+				7D4FBEF0242B354E000D0B24 /* CoreDataIdentifiers.swift */,
 			);
 			path = "core-data-demo-ios";
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				7DAC71A6242B29330034F8F1 /* AppDelegate.swift in Sources */,
 				7DAC71A8242B29330034F8F1 /* SceneDelegate.swift in Sources */,
 				7DAC71B0242B29330034F8F1 /* core_data_demo_ios.xcdatamodeld in Sources */,
+				7D4FBEF1242B354E000D0B24 /* CoreDataIdentifiers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
